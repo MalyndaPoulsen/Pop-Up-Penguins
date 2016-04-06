@@ -118,6 +118,6 @@ body {
     background-image:url('https://bcw.blob.core.windows.net/public/img/penguins/img/mound_8_hover.png');
 }
 .yeti:active {
-    background-image:url('img/yeti.png');
-    
+    background: url('img/yeti.png') no-repeat;   
+    background-size: contain;
 }
